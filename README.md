@@ -5,6 +5,8 @@
 
 《Fate/stay night: Unlimited Blade Works》（简称 UBW） 是《Fate/stay night》游戏中的第二条主线（Route），也是最受欢迎的一条路线之一。它主要围绕卫宫士郎和远坂凛展开，同时深入探讨士郎的理想——“成为正义的伙伴”。
 
+<img src="img/1.png">
+
 故事背景
 故事发生在第五次圣杯战争。
 七位魔术师（Master）召唤七位英灵（Servant）争夺圣杯。
