@@ -5,3 +5,5 @@
 [**Fate/saty night：UBW**](1.md)
 
 [**犬夜叉**](2.md)
+
+[**Fate/Zero**](3.md)
